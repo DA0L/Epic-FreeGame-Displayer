@@ -1,0 +1,1 @@
+Looks for the image items of the two free games on Epic Games Store and displays it to you in a tkinter window.
